@@ -15,6 +15,3 @@ for names in folders:
 
 for path in consolidated:
     os.mkdir(path.lower())
-
-# for path in consolidated:
-#     os.mkdir(path.lower())

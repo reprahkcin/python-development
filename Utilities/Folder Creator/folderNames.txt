@@ -1,72 +1,30 @@
-Levator scapulae 
-Serratus anterior 
-Deltoid anterior middle posterior
-Teres major
-Supraspinatus
-Infraspinatus
-Teres minor
-Subscapularis
-Supinator
-Pronator teres
-Gluteus medius
-Sartorius
-Tibialis anterior
-Fibularis Peroneus longus
-Fibularis Peroneus brevis
-Tibialis posterior
-Gastrocnemius
-Masseter
-Sternocleidomastoid SCM
-Rhomboids 
-Flexor carpi ulnaris
-Flexor carpi radialis
-Extensor carpi ulnaris
-Extensor carpi radialis longus
-Extensor carpi radialis brevis
-Piriformis
-Iliopsoas iliacus and psoas major
-Tensor fasciae latae
-Extensor digitorum longus
-Extensor hallucis longus
-Flexor digitorum longus
-Soleus
-Temporalis
-Trapezius
-Pectoralis major 
-Latissimus dorsi 
-Coracobrachialis
-Biceps brachii
-Brachialis
-Brachioradialis
-Triceps brachii
-Pronator quadratus
-Palmaris longus
-Flexor digitorum superficialis
-Flexor digitorum profundus
-Extensor digiti minimi
-Extensor digitorum
-Gluteus maximus
-Gluteus minimus
-Semimembranosus
-Semitendinosus
-Biceps femoris
-Adductor brevis
-Adductor longus
-Adductor magnus
-Pectineus
-Gracilis 
-Rectus femoris
-Vastus lateralis
-Vastus intermedius 
-Vastus medialis
-Flexor hallucis longus
-Splenius capitis
-Diaphragm
-External intercostal
-Internal intercostal
-Pectoralis minor
-Rectus abdominis
-External oblique
-Internal oblique
-Transversus abdominis
-Erector spinae
+Frontal 
+Parietal
+Temporal
+Incus 
+Malleus 
+Stapes 
+Occipital 
+Occipital condyles 
+Foramen magnum 
+Sphenoid 
+Ethmoid 
+Vertebrae 
+Cervical vertebrae 
+Atlas 
+Axis 
+Thoracic vertebrae 
+Lumbar vertebrae 
+Sacrum 
+Maxilla 
+Mandible 
+Zygomatic 
+Nasal 
+Lacrimal 
+Vomer 
+Palatine 
+Inferior nasal conchae
+Thorax 
+Sternum 
+Ribs 
+Hyoid
